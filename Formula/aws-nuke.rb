@@ -1,9 +1,9 @@
 class AwsNuke < Formula
   desc     "Nuke a whole AWS account"
   homepage "https://github.com/rebuy-de/aws-nuke"
-  version  "2.1.0"
-  url      "https://github.com/rebuy-de/aws-nuke/releases/download/v2.1.0/aws-nuke-v#{version}-darwin-amd64"
-  sha256   "6d28cbc7d5c0122c5f2c18e83b9362caaff7c298eb6f134803759d806a4da8f9"
+  version  "2.14.0"
+  url      "https://github.com/rebuy-de/aws-nuke/releases/download/v#{version}/aws-nuke-v#{version}-darwin-amd64"
+  sha256   "95f896396932de0d8b95d711d720b770b09dd73d050df2f078886bef19a4cdc2"
 
   bottle :unneeded
 
